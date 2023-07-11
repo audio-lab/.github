@@ -1,4 +1,4 @@
-# .github
+# Audio Lab
 
-Audio Lab
+Reinventing sound
 
